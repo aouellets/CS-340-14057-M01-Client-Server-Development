@@ -1,7 +1,5 @@
 # CS-340-14057-M01-Client-Server-Development
 
-# CS 340: Portfolio Submission - Module Eight Journal
-
 ## Overview
 
 This repository contains the final dashboard code and accompanying artifacts from **Project Two**, developed for the Grazioso Salvare client requirements. These artifacts demonstrate advanced CRUD operations and interactive dashboard integration with a database. This submission is part of the ongoing Computer Science portfolio, showcasing skills in database management, Python programming, and software development.
