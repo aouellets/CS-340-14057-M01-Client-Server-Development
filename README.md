@@ -62,10 +62,3 @@ By creating maintainable, scalable solutions, computer scientists empower organi
 - **README.md**: Reflective insights and project overview.
 - **Project Two Artifacts**: Screenshots and documentation showcasing the completed functionality.
 
----
-
-## Submission Instructions
-To review this work, please visit the repository at: [GitHub Repository Link]  
-(*Replace with the actual link to your GitHub repository.*)
-
-If you have any questions or require additional information, feel free to reach out.
